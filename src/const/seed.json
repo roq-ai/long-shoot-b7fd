@@ -1,0 +1,2242 @@
+[
+  {
+    "game_tester": [
+      {
+        "id": "3933c27a-8bb1-420b-9e29-d9cf927a7a52",
+        "created_at": "2023-08-31T14:21:14.359Z",
+        "updated_at": "2023-08-31T14:53:17.998Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff90ad8c-e814-4921-8970-0de9419cd3ad",
+        "created_at": "2023-08-31T08:54:34.156Z",
+        "updated_at": "2023-08-31T04:36:22.778Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "110e338e-f948-45a4-8020-96ce428415ab",
+        "created_at": "2023-08-31T22:05:50.157Z",
+        "updated_at": "2023-08-31T09:34:57.491Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a1bd6b89-0e2f-4378-9bd2-35ef531d5e90",
+        "created_at": "2023-08-31T08:05:05.186Z",
+        "updated_at": "2023-08-31T22:56:54.517Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c643fc51-dc2f-4710-9426-6be07bb5725b",
+        "created_at": "2023-08-31T16:59:30.254Z",
+        "updated_at": "2023-08-31T21:06:26.327Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "7e0e0c35-a349-44aa-b5cf-883f463ce23b",
+        "created_at": "2023-08-31T08:45:07.339Z",
+        "updated_at": "2023-08-31T08:15:12.231Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca10a733-ae32-4fc1-a58f-4e6d5d14b64b",
+        "created_at": "2023-08-31T06:40:13.127Z",
+        "updated_at": "2023-08-31T10:46:40.584Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f71186f2-2efb-41c6-bb5a-6d812a99381d",
+        "created_at": "2023-08-31T02:11:54.785Z",
+        "updated_at": "2023-08-31T14:32:27.443Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4972159c-01cf-47ec-92df-cd2c583df590",
+        "created_at": "2023-08-31T12:13:42.160Z",
+        "updated_at": "2023-08-31T23:03:21.346Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1ac0177b-38e4-41bb-929a-7a6afa1a8dd1",
+        "created_at": "2023-08-31T09:30:58.992Z",
+        "updated_at": "2023-08-31T19:00:35.131Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "6c1b7c79-d2f0-4ef3-85db-51e8b4b0cf97",
+        "name": "Super Adventure",
+        "description": "Embark on a thrilling adventure in a magical world.",
+        "created_at": "2023-08-31T23:15:40.580Z",
+        "updated_at": "2023-08-31T01:13:39.594Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "df4d91b1-7058-44e5-b69e-e4fe2e69ee01",
+        "name": "Mystic Quest",
+        "description": "Join the battle and defeat powerful enemies.",
+        "created_at": "2023-08-31T20:39:04.519Z",
+        "updated_at": "2023-08-31T22:32:03.783Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "f50a9ed2-999d-4951-bec5-a2eac92a2fb0",
+        "name": "Epic Battle",
+        "description": "Experience the excitement of epic quests and challenges.",
+        "created_at": "2023-08-31T15:42:55.452Z",
+        "updated_at": "2023-08-31T06:02:57.983Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "5404c80f-7aea-4e7a-b963-51b9d7d1e7c4",
+        "name": "Fantasy World",
+        "description": "Immerse yourself in a fantasy world filled with wonder and danger.",
+        "created_at": "2023-08-31T16:54:49.380Z",
+        "updated_at": "2023-08-31T11:39:12.225Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "9538a2a1-bb76-44c0-86d2-7abe13132e80",
+        "name": "Legendary Heroes",
+        "description": "Become a legendary hero and save the kingdom.",
+        "created_at": "2023-08-31T22:24:21.288Z",
+        "updated_at": "2023-08-31T00:53:44.915Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "6b0c55d0-0d60-4bdd-ab99-e9296bd7e295",
+        "created_at": "2023-08-31T03:26:50.838Z",
+        "updated_at": "2023-08-31T15:40:04.134Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "73b68cc3-46d7-4298-a936-c3b1875cc18f",
+        "created_at": "2023-08-31T07:39:00.588Z",
+        "updated_at": "2023-08-31T13:08:34.201Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "36d50923-7fea-48bd-b58c-3830bf94e4ba",
+        "created_at": "2023-08-31T09:05:13.055Z",
+        "updated_at": "2023-08-31T06:42:39.896Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "497529b9-aa9b-4d25-b514-158c77c79969",
+        "created_at": "2023-08-31T00:56:41.137Z",
+        "updated_at": "2023-08-31T09:47:48.495Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c720c8c-c531-402f-9bdf-7495dc23bcae",
+        "created_at": "2023-08-31T08:34:42.889Z",
+        "updated_at": "2023-08-31T10:57:13.247Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "065c86eb-4452-478e-ab6c-e1b54f8d0960",
+        "description": "Encountered a bug while playing the game.",
+        "created_at": "2023-08-31T18:49:17.597Z",
+        "updated_at": "2023-08-31T22:33:13.339Z",
+        "customer_support_id": "36d50923-7fea-48bd-b58c-3830bf94e4ba"
+      },
+      {
+        "id": "1269b988-c2f7-409a-9ef5-f173d9772317",
+        "description": "Experiencing performance issues on certain devices.",
+        "created_at": "2023-08-31T03:34:23.609Z",
+        "updated_at": "2023-08-31T13:57:33.210Z",
+        "customer_support_id": "73b68cc3-46d7-4298-a936-c3b1875cc18f"
+      },
+      {
+        "id": "6d722433-58cc-4ca2-9cc1-9a9c589d4793",
+        "description": "Unable to complete a specific quest in the game.",
+        "created_at": "2023-08-31T18:05:21.204Z",
+        "updated_at": "2023-08-31T04:54:33.505Z",
+        "customer_support_id": "2c720c8c-c531-402f-9bdf-7495dc23bcae"
+      },
+      {
+        "id": "3127b9e7-3c1d-4dd9-ab67-2eeb623cc673",
+        "description": "Game crashes unexpectedly during gameplay.",
+        "created_at": "2023-08-31T04:55:46.649Z",
+        "updated_at": "2023-08-31T17:45:55.425Z",
+        "customer_support_id": "2c720c8c-c531-402f-9bdf-7495dc23bcae"
+      },
+      {
+        "id": "1931a307-a570-4062-b857-130431d65315",
+        "description": "Not receiving in-game rewards after completing tasks.",
+        "created_at": "2023-08-31T12:56:56.984Z",
+        "updated_at": "2023-08-31T23:14:02.533Z",
+        "customer_support_id": "497529b9-aa9b-4d25-b514-158c77c79969"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "545e772b-93c0-49fe-bd1a-0fa419dba85a",
+        "email": "Dasia.Kuhn@yahoo.com",
+        "firstName": "Felix",
+        "lastName": "Jast",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31673490",
+        "tenantId": null
+      },
+      {
+        "reference": "0da35c51-fabd-464b-b68f-100e8b4a75e7",
+        "email": "Alphonso_Conroy@yahoo.com",
+        "firstName": "Gaston",
+        "lastName": "Von",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9372037",
+        "tenantId": null
+      },
+      {
+        "reference": "e0ad8ea3-111e-4c9a-a86a-a81a5cab404e",
+        "email": "Armani15@yahoo.com",
+        "firstName": "Antonio",
+        "lastName": "Oberbrunner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1143.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "388dd27c-e35e-4aff-a88e-bb109ea07900",
+        "email": "Colt43@yahoo.com",
+        "firstName": "Ignatius",
+        "lastName": "Pollich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/708.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bdcc4160-8d0d-40e9-a3bd-bafddccc40d0",
+        "email": "Orland.Torphy54@yahoo.com",
+        "firstName": "Cheyenne",
+        "lastName": "Waelchi",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/550.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "game_tester": [
+      {
+        "id": "16be763d-d79b-41f0-b183-e995da9e36c6",
+        "created_at": "2023-08-31T00:46:22.435Z",
+        "updated_at": "2023-08-31T15:54:44.663Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9916a60e-443e-4edd-a909-6bd892c2eaeb",
+        "created_at": "2023-08-31T11:56:51.975Z",
+        "updated_at": "2023-08-31T18:58:14.285Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a599cbb-a10f-4efa-b606-6a3d49da8fc9",
+        "created_at": "2023-08-31T06:22:48.994Z",
+        "updated_at": "2023-08-31T09:46:47.203Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d749b75-2b48-48d0-aa55-8a70b13cf34e",
+        "created_at": "2023-08-31T01:19:01.741Z",
+        "updated_at": "2023-08-31T01:01:34.892Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8be6c8cf-5d51-4141-a625-c6b36793d38e",
+        "created_at": "2023-08-31T17:46:56.910Z",
+        "updated_at": "2023-08-31T17:23:13.342Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "9805b410-24d1-4b51-8422-4eac5ec1d5b8",
+        "created_at": "2023-08-31T10:55:02.016Z",
+        "updated_at": "2023-08-31T21:44:01.026Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61120d29-52c2-4077-b0b2-e6cde309b922",
+        "created_at": "2023-08-31T01:19:52.407Z",
+        "updated_at": "2023-08-31T03:33:32.146Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1fbc86bc-f455-47e1-83ec-d74506250807",
+        "created_at": "2023-08-31T14:50:13.405Z",
+        "updated_at": "2023-08-31T15:38:00.607Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ac18df9-2b40-46a2-9d7e-39093862f739",
+        "created_at": "2023-08-31T10:22:58.234Z",
+        "updated_at": "2023-08-31T01:31:54.819Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bfae8647-7fae-42de-a571-9d19732568df",
+        "created_at": "2023-08-31T02:50:35.872Z",
+        "updated_at": "2023-08-31T07:20:01.934Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "caed36e4-db79-4ad5-b417-7b541b110b0d",
+        "name": "Super Adventure",
+        "description": "Embark on a thrilling adventure in a magical realm.",
+        "created_at": "2023-08-31T00:54:43.725Z",
+        "updated_at": "2023-08-31T09:53:39.239Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "cb02e418-b979-431c-95dd-614e8f4b2694",
+        "name": "Mystic Quest",
+        "description": "Unleash your strategic skills in epic battles against powerful foes.",
+        "created_at": "2023-08-31T23:13:04.696Z",
+        "updated_at": "2023-08-31T11:27:03.774Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "56819ed4-d0ec-4b60-a5c8-e3485e47e78a",
+        "name": "Epic Battle",
+        "description": "Immerse yourself in a fantasy world filled with mythical creatures and ancient treasures.",
+        "created_at": "2023-08-31T03:34:32.995Z",
+        "updated_at": "2023-08-31T11:01:50.557Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "247fcfd0-9325-44ce-8e55-b8167d45734e",
+        "name": "Legendary Heroes",
+        "description": "Become a legendary hero and save the kingdom from darkness.",
+        "created_at": "2023-08-31T00:44:11.486Z",
+        "updated_at": "2023-08-31T09:27:28.382Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "aeb550ef-39c5-4551-9da9-28b40e6d45d0",
+        "name": "Fantasy World",
+        "description": "Experience the excitement of an action-packed quest with stunning visuals and immersive gameplay.",
+        "created_at": "2023-08-31T08:23:08.056Z",
+        "updated_at": "2023-08-31T08:58:05.660Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "43036adb-9d6e-4a5f-a4fb-96d52f71d8ef",
+        "created_at": "2023-08-31T22:15:31.652Z",
+        "updated_at": "2023-08-31T19:48:22.913Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f21b24b-f4b7-488e-81d2-38f9a81ed4db",
+        "created_at": "2023-08-31T10:23:43.212Z",
+        "updated_at": "2023-08-31T07:11:32.462Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2929d484-17ee-4608-8277-30766832a60b",
+        "created_at": "2023-08-31T17:10:02.780Z",
+        "updated_at": "2023-08-31T22:23:28.257Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a8c8373d-8686-4f03-bbbd-52fe443ea09d",
+        "created_at": "2023-08-31T19:34:42.985Z",
+        "updated_at": "2023-08-31T22:23:38.456Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80e9f8f1-f124-41d2-94c8-0ff315add17a",
+        "created_at": "2023-08-31T20:21:08.810Z",
+        "updated_at": "2023-08-31T01:20:53.271Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "11b5a59a-1130-4078-baad-f630aee7d314",
+        "description": "Encountered a bug while navigating through the app.",
+        "created_at": "2023-08-31T03:53:42.112Z",
+        "updated_at": "2023-08-31T19:39:24.997Z",
+        "customer_support_id": "2929d484-17ee-4608-8277-30766832a60b"
+      },
+      {
+        "id": "ea2971e0-060a-4df3-98f2-75856a3d40c4",
+        "description": "Unable to login to the game using my account credentials.",
+        "created_at": "2023-08-31T03:14:17.086Z",
+        "updated_at": "2023-08-31T00:10:52.371Z",
+        "customer_support_id": "80e9f8f1-f124-41d2-94c8-0ff315add17a"
+      },
+      {
+        "id": "f5b60ebf-c15b-4aff-823d-6851d5cadebc",
+        "description": "Game crashes randomly during gameplay.",
+        "created_at": "2023-08-31T09:27:04.091Z",
+        "updated_at": "2023-08-31T21:15:01.765Z",
+        "customer_support_id": "80e9f8f1-f124-41d2-94c8-0ff315add17a"
+      },
+      {
+        "id": "01023393-f7f3-47d7-8809-be334a7eb221",
+        "description": "Character's abilities are not working as intended.",
+        "created_at": "2023-08-31T20:08:43.976Z",
+        "updated_at": "2023-08-31T13:25:15.489Z",
+        "customer_support_id": "43036adb-9d6e-4a5f-a4fb-96d52f71d8ef"
+      },
+      {
+        "id": "3a446590-8266-45d5-959f-1ad9a31c940f",
+        "description": "In-game purchases are not being processed correctly.",
+        "created_at": "2023-08-31T16:42:19.370Z",
+        "updated_at": "2023-08-31T16:50:51.480Z",
+        "customer_support_id": "2929d484-17ee-4608-8277-30766832a60b"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "263080cb-338f-40aa-b2e4-4f6f35945d14",
+        "email": "Genoveva_West@yahoo.com",
+        "firstName": "Jaunita",
+        "lastName": "Johnston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53352666",
+        "tenantId": null
+      },
+      {
+        "reference": "18b09acb-ae2d-41bb-886a-43c87be24322",
+        "email": "Breanna80@yahoo.com",
+        "firstName": "Imani",
+        "lastName": "Dietrich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/251.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "98f400c0-c57e-4e25-b09b-bc5b2402a1f1",
+        "email": "Eva.McGlynn@hotmail.com",
+        "firstName": "Eloise",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1921404",
+        "tenantId": null
+      },
+      {
+        "reference": "391e1676-128c-4ac8-bdb1-e9e306556f57",
+        "email": "Veronica.Marks39@gmail.com",
+        "firstName": "Johanna",
+        "lastName": "Sporer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/612.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "21398c99-bbb1-4f0e-8919-18152d8b7c6a",
+        "email": "Heidi8@yahoo.com",
+        "firstName": "Aracely",
+        "lastName": "Schmidt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/292.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "game_tester": [
+      {
+        "id": "c78532ad-d229-4bd3-9e4d-af98dc973fd3",
+        "created_at": "2023-08-31T08:16:18.136Z",
+        "updated_at": "2023-08-31T05:30:41.326Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a06a3b8-ab83-4e9a-be0a-a9b8d55f47a0",
+        "created_at": "2023-08-31T04:28:02.920Z",
+        "updated_at": "2023-08-31T19:21:59.439Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3d5befcd-c337-442b-91c3-41878b9ee31f",
+        "created_at": "2023-08-31T19:47:14.946Z",
+        "updated_at": "2023-08-31T05:48:31.969Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c789c1f-5fa0-474e-a395-0229d3521ec0",
+        "created_at": "2023-08-31T08:11:02.978Z",
+        "updated_at": "2023-08-31T03:24:13.533Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da4dfa3f-e11d-4063-86be-7ade6f504fb8",
+        "created_at": "2023-08-31T13:58:15.696Z",
+        "updated_at": "2023-08-31T11:44:34.353Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "1870ce3a-209c-4629-9198-b4e8648d8922",
+        "created_at": "2023-08-31T07:45:54.056Z",
+        "updated_at": "2023-08-31T09:26:39.777Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d42c01eb-2850-489e-8079-5a9dd5a22a63",
+        "created_at": "2023-08-31T13:21:15.243Z",
+        "updated_at": "2023-08-31T06:24:34.832Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f84a293-a0f9-4d4c-871f-15dbc6fe6c71",
+        "created_at": "2023-08-31T01:00:54.666Z",
+        "updated_at": "2023-08-31T10:48:17.033Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b2e7d93-948d-4bd7-8d45-f7e59b0cbcf2",
+        "created_at": "2023-08-31T22:58:55.377Z",
+        "updated_at": "2023-08-31T15:17:28.810Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "72cc7479-1c83-4c60-b334-eec83cd3f69f",
+        "created_at": "2023-08-31T03:03:40.229Z",
+        "updated_at": "2023-08-31T23:42:14.741Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "e3df28b5-a5bb-49fb-91ef-1b3165377a29",
+        "name": "Adventure Quest",
+        "description": "Embark on a thrilling adventure in a vast open world.",
+        "created_at": "2023-08-31T15:32:06.561Z",
+        "updated_at": "2023-08-31T23:35:46.799Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "2be27ba2-1abf-4fa9-ae41-6668a31d7c30",
+        "name": "Mystic Legends",
+        "description": "Unleash your magical powers and defeat powerful enemies.",
+        "created_at": "2023-08-31T10:47:47.653Z",
+        "updated_at": "2023-08-31T12:47:39.311Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "e5c2d7fe-0e7b-40fe-a73a-7289a2369822",
+        "name": "Epic Odyssey",
+        "description": "Explore ancient ruins and discover hidden treasures.",
+        "created_at": "2023-08-31T16:04:59.947Z",
+        "updated_at": "2023-08-31T20:31:15.993Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "cc8e2c74-f038-43aa-a6e8-48fcd3697873",
+        "name": "Fantasy Realm",
+        "description": "Immerse yourself in a captivating story of heroism and destiny.",
+        "created_at": "2023-08-31T06:36:34.103Z",
+        "updated_at": "2023-08-31T15:44:01.856Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "7016acf9-98f7-40d6-9809-99b8f7d1d35a",
+        "name": "Legendary Heroes",
+        "description": "Build your empire and conquer rival kingdoms.",
+        "created_at": "2023-08-31T01:19:00.583Z",
+        "updated_at": "2023-08-31T11:43:21.847Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "f16987f9-9a44-4241-a456-2ac90f135dbf",
+        "created_at": "2023-08-31T08:10:43.262Z",
+        "updated_at": "2023-08-31T13:39:18.514Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a96b776e-1e6d-4035-aeb2-fb2ae2312a57",
+        "created_at": "2023-08-31T16:41:42.000Z",
+        "updated_at": "2023-08-31T21:16:59.069Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "627aa1d1-ad0d-4f82-9296-a183f3d42ee5",
+        "created_at": "2023-08-31T16:00:05.918Z",
+        "updated_at": "2023-08-31T01:04:59.511Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0843c245-9a4e-44a6-a02d-d62e4e445729",
+        "created_at": "2023-08-31T10:15:14.890Z",
+        "updated_at": "2023-08-31T23:09:28.820Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a14c5b95-bd3e-42f7-b9e2-2ff9969fe094",
+        "created_at": "2023-08-31T07:42:25.640Z",
+        "updated_at": "2023-08-31T13:52:39.703Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "06c9f0c9-2b61-48f1-8543-d763dee3db28",
+        "description": "Encountered a bug while navigating through the menu.",
+        "created_at": "2023-08-31T04:50:35.177Z",
+        "updated_at": "2023-08-31T12:49:12.903Z",
+        "customer_support_id": "627aa1d1-ad0d-4f82-9296-a183f3d42ee5"
+      },
+      {
+        "id": "27caacd9-1f7d-419d-9267-abb2e3e04e47",
+        "description": "Game crashes when attempting to load a saved game.",
+        "created_at": "2023-08-31T19:27:04.745Z",
+        "updated_at": "2023-08-31T22:02:15.762Z",
+        "customer_support_id": "f16987f9-9a44-4241-a456-2ac90f135dbf"
+      },
+      {
+        "id": "b235766b-872c-4e8e-9a23-a898da90a96c",
+        "description": "Unable to complete a quest due to a missing item.",
+        "created_at": "2023-08-31T14:05:07.318Z",
+        "updated_at": "2023-08-31T08:20:04.103Z",
+        "customer_support_id": "627aa1d1-ad0d-4f82-9296-a183f3d42ee5"
+      },
+      {
+        "id": "a734832c-d0f1-47b5-ad44-8adaf8d0bd15",
+        "description": "Character's abilities are not functioning properly.",
+        "created_at": "2023-08-31T11:02:41.286Z",
+        "updated_at": "2023-08-31T14:10:14.635Z",
+        "customer_support_id": "a96b776e-1e6d-4035-aeb2-fb2ae2312a57"
+      },
+      {
+        "id": "dbbb5507-7115-4609-bdef-a6283497c4d2",
+        "description": "Experiencing lag and latency issues during online multiplayer.",
+        "created_at": "2023-08-31T11:11:33.777Z",
+        "updated_at": "2023-08-31T02:33:59.654Z",
+        "customer_support_id": "a14c5b95-bd3e-42f7-b9e2-2ff9969fe094"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "95f637e4-5f80-426a-805b-1282fac75c53",
+        "email": "Kaylin80@gmail.com",
+        "firstName": "Regan",
+        "lastName": "Heller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44156671",
+        "tenantId": null
+      },
+      {
+        "reference": "5e85d7fe-0db0-4b57-a235-197190926c71",
+        "email": "Andres30@hotmail.com",
+        "firstName": "Mose",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/936.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9dbcfaac-781a-4d09-8dbb-d85d59a96b00",
+        "email": "Blake_Denesik49@hotmail.com",
+        "firstName": "Gretchen",
+        "lastName": "Schumm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/788.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "acbf7d47-1e9f-4b42-82a2-e59c8a3297fd",
+        "email": "Israel_Jacobson42@hotmail.com",
+        "firstName": "Christelle",
+        "lastName": "Skiles",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/923.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b362aff0-22fc-403a-a071-fb0018f45c3c",
+        "email": "Peggie_Kirlin@hotmail.com",
+        "firstName": "Noemy",
+        "lastName": "Kassulke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/77.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "game_tester": [
+      {
+        "id": "4c2a8940-a043-4c67-821d-22cd78647bc6",
+        "created_at": "2023-08-31T09:42:19.285Z",
+        "updated_at": "2023-08-31T23:15:51.462Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "460446fb-d8b3-4547-927a-db2844e5aadf",
+        "created_at": "2023-08-31T09:32:32.638Z",
+        "updated_at": "2023-08-31T23:47:37.793Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42ef8430-ba75-44c6-a7b9-8ad2c4d4ca34",
+        "created_at": "2023-08-31T00:50:07.492Z",
+        "updated_at": "2023-08-31T20:15:10.036Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01f86142-5bda-4e50-a62c-1098ef0e5a79",
+        "created_at": "2023-08-31T15:55:17.798Z",
+        "updated_at": "2023-08-31T21:11:04.316Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a772b372-d96f-4c3a-8c01-b86219d03eef",
+        "created_at": "2023-08-31T06:27:14.298Z",
+        "updated_at": "2023-08-31T08:47:29.334Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "8139e7bd-71f8-4066-8e0d-cab370d43515",
+        "created_at": "2023-08-31T08:26:57.587Z",
+        "updated_at": "2023-08-31T22:57:02.530Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59e3ffa3-0bba-4968-bba1-756a02860c90",
+        "created_at": "2023-08-31T10:28:01.119Z",
+        "updated_at": "2023-08-31T20:26:24.889Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6848effd-723c-4509-a850-dd2abc2871c1",
+        "created_at": "2023-08-31T21:19:14.044Z",
+        "updated_at": "2023-08-31T16:26:29.789Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3dde532d-f96e-43bb-a291-fc12c896a79d",
+        "created_at": "2023-08-31T05:07:21.209Z",
+        "updated_at": "2023-08-31T08:17:22.171Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e8b4e23f-0d14-4c5a-82c0-22bcb1d1447f",
+        "created_at": "2023-08-31T20:03:48.170Z",
+        "updated_at": "2023-08-31T07:10:38.940Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "6a3430c2-69f0-400d-8983-f410c5bf24f5",
+        "name": "Adventure Quest",
+        "description": "Embark on an epic adventure filled with quests and challenges.",
+        "created_at": "2023-08-31T22:46:14.475Z",
+        "updated_at": "2023-08-31T03:30:12.786Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "9772ab1a-1130-49c9-aeee-b17e7e82675a",
+        "name": "Mystic Legends",
+        "description": "Immerse yourself in a mystical world of magic and legends.",
+        "created_at": "2023-08-31T19:40:50.827Z",
+        "updated_at": "2023-08-31T19:52:09.103Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "c10dd95f-81df-44c4-a01c-b1414839d88d",
+        "name": "Epic Journey",
+        "description": "Experience an epic journey through breathtaking landscapes and thrilling battles.",
+        "created_at": "2023-08-31T00:43:09.833Z",
+        "updated_at": "2023-08-31T01:46:53.375Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "355f676d-0b1d-4a2a-be85-c4389c61b5ef",
+        "name": "Fantasy Realm",
+        "description": "Enter a fantastical realm where anything is possible.",
+        "created_at": "2023-08-31T17:37:01.950Z",
+        "updated_at": "2023-08-31T00:27:36.925Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "1a5ed156-49a3-472d-9404-6752f31a092a",
+        "name": "Quest for Glory",
+        "description": "Become a hero and embark on a quest for glory.",
+        "created_at": "2023-08-31T19:46:53.245Z",
+        "updated_at": "2023-08-31T07:09:36.133Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "0fc97bc6-ad7e-4bda-9d57-cd15e2145940",
+        "created_at": "2023-08-31T00:57:28.796Z",
+        "updated_at": "2023-08-31T06:05:26.587Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "528f56cf-43f5-4a05-a49c-5328037f07da",
+        "created_at": "2023-08-31T09:45:40.194Z",
+        "updated_at": "2023-08-31T06:06:27.029Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "969d7783-f3be-42a1-bcd3-fe1957049703",
+        "created_at": "2023-08-31T23:48:50.908Z",
+        "updated_at": "2023-08-31T11:39:48.944Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0d87b70f-20c4-4ca2-add0-ed769d1a150b",
+        "created_at": "2023-08-31T23:31:08.168Z",
+        "updated_at": "2023-08-31T16:49:51.332Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f496790-3702-4190-8d34-d75312d9a23a",
+        "created_at": "2023-08-31T23:52:14.856Z",
+        "updated_at": "2023-08-31T19:51:28.815Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "052f2054-5002-481d-8dfc-62fc0818a48f",
+        "description": "Encountered a bug while trying to save the game progress.",
+        "created_at": "2023-08-31T10:07:26.457Z",
+        "updated_at": "2023-08-31T06:01:26.753Z",
+        "customer_support_id": "528f56cf-43f5-4a05-a49c-5328037f07da"
+      },
+      {
+        "id": "13d14fa1-42e5-405b-8f7d-aa5898d3a274",
+        "description": "Experiencing lag during gameplay.",
+        "created_at": "2023-08-31T13:10:15.263Z",
+        "updated_at": "2023-08-31T10:15:14.153Z",
+        "customer_support_id": "528f56cf-43f5-4a05-a49c-5328037f07da"
+      },
+      {
+        "id": "0f5365a0-53c0-4054-9796-27e3e90273e2",
+        "description": "Unable to login to the game.",
+        "created_at": "2023-08-31T13:35:45.743Z",
+        "updated_at": "2023-08-31T16:58:23.235Z",
+        "customer_support_id": "0d87b70f-20c4-4ca2-add0-ed769d1a150b"
+      },
+      {
+        "id": "fd6394ac-1035-47a6-863e-03cf96cb7982",
+        "description": "Game crashes when entering a specific area.",
+        "created_at": "2023-08-31T01:06:32.383Z",
+        "updated_at": "2023-08-31T22:26:09.075Z",
+        "customer_support_id": "0d87b70f-20c4-4ca2-add0-ed769d1a150b"
+      },
+      {
+        "id": "ca7f53d3-0bc2-4a08-b200-a123e3bf9ddf",
+        "description": "Missing audio in certain game scenes.",
+        "created_at": "2023-08-30T23:59:58.812Z",
+        "updated_at": "2023-08-31T06:39:20.593Z",
+        "customer_support_id": "5f496790-3702-4190-8d34-d75312d9a23a"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "bf1dcf38-8f73-4498-a49a-cb43c6271e5a",
+        "email": "Cedrick_Mitchell@yahoo.com",
+        "firstName": "Ben",
+        "lastName": "Howe-Armstrong",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55976536",
+        "tenantId": null
+      },
+      {
+        "reference": "cf5c87c0-b973-4724-a1f2-1ccabe46f66e",
+        "email": "Shawn_Towne41@yahoo.com",
+        "firstName": "Kelsie",
+        "lastName": "Shanahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/744.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b12fb25b-7746-4aee-b2ff-cd200d06d9be",
+        "email": "Michele64@gmail.com",
+        "firstName": "Eloy",
+        "lastName": "Stehr",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/778.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "55292949-f40d-48ac-8849-354f6a04fcb0",
+        "email": "Kendall_Bergstrom@yahoo.com",
+        "firstName": "Cameron",
+        "lastName": "Lubowitz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1148.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7321795d-c283-4c6c-8792-09da6c7d1c03",
+        "email": "Angelina32@hotmail.com",
+        "firstName": "Stephania",
+        "lastName": "Blick-Mosciski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/621.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "game_tester": [
+      {
+        "id": "ef95387e-4609-4cdc-a157-8c886a9dce74",
+        "created_at": "2023-08-31T05:21:32.093Z",
+        "updated_at": "2023-08-31T22:40:17.156Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91765042-ae81-4539-83ce-ffd72f72c21e",
+        "created_at": "2023-08-31T14:26:32.757Z",
+        "updated_at": "2023-08-31T18:24:30.678Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3828f48c-e9a4-4a6e-baec-03df8ce0b1c7",
+        "created_at": "2023-08-31T17:22:02.030Z",
+        "updated_at": "2023-08-31T04:02:52.488Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "afdf82ef-5557-40f3-9ee9-1bf5787988fc",
+        "created_at": "2023-08-31T20:56:52.434Z",
+        "updated_at": "2023-08-31T16:38:29.779Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07ac3b70-7346-49b2-b07c-8133a32e7a8d",
+        "created_at": "2023-08-31T20:14:57.793Z",
+        "updated_at": "2023-08-31T01:27:34.570Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "c895d230-ed7e-4338-a562-a7b33d8f7c8d",
+        "created_at": "2023-08-31T18:21:41.397Z",
+        "updated_at": "2023-08-31T00:41:11.831Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60f26eab-026c-4ec7-80ad-ee30dfb76224",
+        "created_at": "2023-08-31T21:06:25.873Z",
+        "updated_at": "2023-08-31T15:25:35.837Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7f017d6-b9a1-483c-9b26-d3f1567b541c",
+        "created_at": "2023-08-31T22:37:45.816Z",
+        "updated_at": "2023-08-31T15:14:37.501Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a41e569-8f33-4191-856a-529c4cac2067",
+        "created_at": "2023-08-31T11:07:01.802Z",
+        "updated_at": "2023-08-31T23:14:07.460Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70b582c5-a3c2-4337-b73b-8b1debf04b86",
+        "created_at": "2023-08-31T08:54:04.861Z",
+        "updated_at": "2023-08-31T03:09:24.073Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "60b343f8-676d-48ea-b78d-266bba54c651",
+        "name": "Adventure Quest",
+        "description": "Embark on a thrilling adventure in a world full of magic and danger.",
+        "created_at": "2023-08-31T02:29:16.569Z",
+        "updated_at": "2023-08-31T18:28:26.729Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "6c7b025a-f9b3-40bf-b547-c28046516b57",
+        "name": "Mystic Legends",
+        "description": "Immerse yourself in a captivating story filled with mystery and intrigue.",
+        "created_at": "2023-08-31T03:37:04.733Z",
+        "updated_at": "2023-08-31T21:17:53.797Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "917628f2-dd70-4139-892a-531e28f66d55",
+        "name": "Epic Journey",
+        "description": "Experience an epic journey through vast landscapes and treacherous dungeons.",
+        "created_at": "2023-08-31T01:45:20.451Z",
+        "updated_at": "2023-08-31T08:58:53.749Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "a13e1b95-b568-45ab-ab38-0ddaa95605ce",
+        "name": "Fantasy Realm",
+        "description": "Enter a fantastical realm where anything is possible and destiny awaits.",
+        "created_at": "2023-08-31T05:28:35.075Z",
+        "updated_at": "2023-08-31T03:50:23.930Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "08369b8f-5fed-4cb6-b8e1-57082d4890e3",
+        "name": "Legendary Heroes",
+        "description": "Lead a team of legendary heroes and save the world from impending doom.",
+        "created_at": "2023-08-31T23:37:43.375Z",
+        "updated_at": "2023-08-31T18:54:25.597Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "9a7236a7-dd01-4598-a035-6fb330f5c9f4",
+        "created_at": "2023-08-31T19:07:30.984Z",
+        "updated_at": "2023-08-31T08:30:19.525Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51b574b9-1c5a-4747-a64c-70d894a417d7",
+        "created_at": "2023-08-31T06:48:07.175Z",
+        "updated_at": "2023-08-31T14:18:20.354Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5ed0be1a-0e07-41d3-bf36-66e54cd85199",
+        "created_at": "2023-08-31T14:47:02.439Z",
+        "updated_at": "2023-08-31T19:23:49.452Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "49ca13e3-044e-4823-89e6-f296d03927f9",
+        "created_at": "2023-08-31T07:03:49.946Z",
+        "updated_at": "2023-08-31T07:07:00.985Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e77a42f5-3790-4e1d-9825-5bd3c772a8fc",
+        "created_at": "2023-08-31T17:24:52.683Z",
+        "updated_at": "2023-08-31T10:58:43.546Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "c6635cc9-a53f-4400-8e9b-76b078ce63b1",
+        "description": "Encountered a bug while trying to save the game progress.",
+        "created_at": "2023-08-31T04:11:32.038Z",
+        "updated_at": "2023-08-31T11:15:26.707Z",
+        "customer_support_id": "e77a42f5-3790-4e1d-9825-5bd3c772a8fc"
+      },
+      {
+        "id": "507733a8-3b43-46c1-ac1b-e2b06e4ce5b7",
+        "description": "Experiencing performance issues during gameplay.",
+        "created_at": "2023-08-31T00:00:12.625Z",
+        "updated_at": "2023-08-31T11:39:41.088Z",
+        "customer_support_id": "51b574b9-1c5a-4747-a64c-70d894a417d7"
+      },
+      {
+        "id": "d8b489e5-5f26-4554-acf0-17ab8984000c",
+        "description": "Unable to launch the game after recent update.",
+        "created_at": "2023-08-31T21:54:17.931Z",
+        "updated_at": "2023-08-31T04:16:40.698Z",
+        "customer_support_id": "9a7236a7-dd01-4598-a035-6fb330f5c9f4"
+      },
+      {
+        "id": "b404f1ec-af5a-40f6-a241-4df6f6dbdb40",
+        "description": "Game crashes randomly during gameplay.",
+        "created_at": "2023-08-31T23:24:32.437Z",
+        "updated_at": "2023-08-31T10:11:54.421Z",
+        "customer_support_id": "51b574b9-1c5a-4747-a64c-70d894a417d7"
+      },
+      {
+        "id": "6710c02d-e376-4b2b-acb3-e3c3e50c8088",
+        "description": "Character abilities are not functioning properly.",
+        "created_at": "2023-08-31T15:29:00.920Z",
+        "updated_at": "2023-08-31T13:46:43.590Z",
+        "customer_support_id": "51b574b9-1c5a-4747-a64c-70d894a417d7"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "93b85ae1-c870-4450-a8cd-9ab1bba2f316",
+        "email": "Sylvan.Hamill@gmail.com",
+        "firstName": "Ernestine",
+        "lastName": "Dibbert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/386.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "89567f62-f869-4e09-ac3c-d974a6ef0dcf",
+        "email": "Sabryna66@hotmail.com",
+        "firstName": "Ruby",
+        "lastName": "Zboncak",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/642492",
+        "tenantId": null
+      },
+      {
+        "reference": "b89cce63-eab4-4ac5-8260-8c27c796aadb",
+        "email": "Art_Wyman10@yahoo.com",
+        "firstName": "Neva",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39660388",
+        "tenantId": null
+      },
+      {
+        "reference": "75037f19-85d0-4da3-be56-13b61c339d4c",
+        "email": "Waino58@hotmail.com",
+        "firstName": "Bernice",
+        "lastName": "Herzog",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1072.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a9d80eff-12f2-4c1c-b6bb-b61c98e149cb",
+        "email": "Daryl65@gmail.com",
+        "firstName": "Tracey",
+        "lastName": "Thompson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/776.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "game_tester": [
+      {
+        "id": "ad4bce1e-70e3-494a-9848-53c77f6d6175",
+        "created_at": "2023-08-31T20:44:41.060Z",
+        "updated_at": "2023-08-31T06:32:52.395Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa805f3d-c3d2-4a84-a6bb-7ef084951afd",
+        "created_at": "2023-08-31T12:55:41.303Z",
+        "updated_at": "2023-08-31T01:55:47.659Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f3d185d-0b8f-4b4c-a2b1-470eb48a3a5f",
+        "created_at": "2023-08-31T09:28:54.978Z",
+        "updated_at": "2023-08-31T07:56:02.444Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ba5fd7d-9446-4e80-9f8f-fcbabd504afe",
+        "created_at": "2023-08-31T07:14:58.637Z",
+        "updated_at": "2023-08-31T10:25:54.520Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f7d3023-f034-42ab-9540-251cb5c66742",
+        "created_at": "2023-08-31T22:28:15.992Z",
+        "updated_at": "2023-08-31T18:16:25.950Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "5e325e9f-76c6-4a90-b488-38d9ffb5893a",
+        "created_at": "2023-08-31T16:59:47.050Z",
+        "updated_at": "2023-08-31T04:52:09.085Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6fc088c3-8e6d-4605-8e82-6f92a581efa3",
+        "created_at": "2023-08-31T17:43:45.605Z",
+        "updated_at": "2023-08-31T16:07:31.356Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ff3318fd-a02e-4a0f-9d12-2227d2d8575a",
+        "created_at": "2023-08-31T20:22:08.684Z",
+        "updated_at": "2023-08-31T08:00:11.213Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aca154d2-2be5-4232-861a-facbdfee3b44",
+        "created_at": "2023-08-31T05:33:00.756Z",
+        "updated_at": "2023-08-31T07:01:05.652Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df5d9401-52a6-4add-af02-987e9348fe44",
+        "created_at": "2023-08-31T06:57:35.282Z",
+        "updated_at": "2023-08-31T14:53:34.274Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "210d8acb-0206-4c1f-bab1-daab10609718",
+        "name": "Adventure Quest",
+        "description": "Embark on a thrilling adventure in a fantasy world",
+        "created_at": "2023-08-31T18:06:59.734Z",
+        "updated_at": "2023-08-31T09:59:30.967Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "3b9d4cbe-679e-410b-81db-e94010dadf65",
+        "name": "Mystic Legends",
+        "description": "Unleash your powers and defeat powerful enemies",
+        "created_at": "2023-08-31T04:37:42.366Z",
+        "updated_at": "2023-08-31T23:04:24.174Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "14360e27-9676-4842-81a0-321009ca5b1f",
+        "name": "Epic Journey",
+        "description": "Explore vast landscapes and uncover hidden treasures",
+        "created_at": "2023-08-31T04:57:49.905Z",
+        "updated_at": "2023-08-31T23:41:30.221Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "87be06fa-2a6d-4493-8f96-b9af1c20c6ef",
+        "name": "Realm of Magic",
+        "description": "Immerse yourself in a captivating storyline",
+        "created_at": "2023-08-31T11:25:22.666Z",
+        "updated_at": "2023-08-31T16:50:56.296Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "724b1fd2-bb09-4e62-a1ef-74b3e245915b",
+        "name": "Lost Civilization",
+        "description": "Challenge your friends in epic multiplayer battles",
+        "created_at": "2023-08-31T08:38:53.030Z",
+        "updated_at": "2023-08-31T06:30:31.133Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "66064e7f-d300-488b-a5ab-f333f56c63d0",
+        "created_at": "2023-08-31T10:04:29.236Z",
+        "updated_at": "2023-08-31T20:50:35.823Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c612ec55-e1b2-4519-9e7b-ca1cd22796f9",
+        "created_at": "2023-08-31T08:34:47.864Z",
+        "updated_at": "2023-08-31T05:05:31.618Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e2aa21de-6573-4d83-81e6-797659ce29a2",
+        "created_at": "2023-08-31T21:53:10.212Z",
+        "updated_at": "2023-08-31T16:25:24.957Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ead8e1b2-91ee-4d14-b3c1-60407faf21cd",
+        "created_at": "2023-08-31T05:30:40.466Z",
+        "updated_at": "2023-08-31T16:15:18.616Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ffdff7b6-284b-41ec-aa21-7bdec05694e7",
+        "created_at": "2023-08-31T09:00:16.515Z",
+        "updated_at": "2023-08-31T18:09:02.576Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "5cea3d7b-a802-4228-a91b-94fa0c4e68a8",
+        "description": "Encountered a bug while playing the game",
+        "created_at": "2023-08-31T20:58:24.359Z",
+        "updated_at": "2023-08-31T04:15:08.274Z",
+        "customer_support_id": "66064e7f-d300-488b-a5ab-f333f56c63d0"
+      },
+      {
+        "id": "67d87ae9-abb0-4819-8561-e0f1b9ff7b70",
+        "description": "Unable to login to my account",
+        "created_at": "2023-08-31T22:23:07.883Z",
+        "updated_at": "2023-08-31T17:36:12.634Z",
+        "customer_support_id": "e2aa21de-6573-4d83-81e6-797659ce29a2"
+      },
+      {
+        "id": "470893a9-4a0d-4def-a8fa-fb58925488c7",
+        "description": "Game crashes randomly during gameplay",
+        "created_at": "2023-08-31T17:57:09.694Z",
+        "updated_at": "2023-08-31T02:17:59.792Z",
+        "customer_support_id": "c612ec55-e1b2-4519-9e7b-ca1cd22796f9"
+      },
+      {
+        "id": "792fd01b-3fbd-495e-9365-aafdf1386f6b",
+        "description": "Character's abilities are not working properly",
+        "created_at": "2023-08-31T15:47:56.232Z",
+        "updated_at": "2023-08-31T02:35:42.858Z",
+        "customer_support_id": "ead8e1b2-91ee-4d14-b3c1-60407faf21cd"
+      },
+      {
+        "id": "9e09bd1c-d03b-4484-9adf-0955617413b6",
+        "description": "Missing items in inventory",
+        "created_at": "2023-08-31T18:44:16.420Z",
+        "updated_at": "2023-08-31T15:58:53.193Z",
+        "customer_support_id": "ead8e1b2-91ee-4d14-b3c1-60407faf21cd"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "db8fd449-8322-4c15-a6a2-8b92c51e0fb0",
+        "email": "Gina0@hotmail.com",
+        "firstName": "Linwood",
+        "lastName": "Kutch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/400.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6864205c-12e7-4fe1-af13-76de6027650b",
+        "email": "Ebony.Blanda@gmail.com",
+        "firstName": "Olaf",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/121.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ea81e78d-b2cb-435f-98f3-f69a1e8b8263",
+        "email": "Kellie_Heller@yahoo.com",
+        "firstName": "Sabryna",
+        "lastName": "Denesik",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87430991",
+        "tenantId": null
+      },
+      {
+        "reference": "74902ea9-6ef0-4fb0-81b0-6623fb66fa98",
+        "email": "Cleve.Bauch@gmail.com",
+        "firstName": "Tyrese",
+        "lastName": "Powlowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/81.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f7668fbe-1452-4d98-b85f-7bb513e6336a",
+        "email": "Tierra_Strosin11@yahoo.com",
+        "firstName": "Angeline",
+        "lastName": "Mohr-Durgan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1086.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "game_tester": [
+      {
+        "id": "263aeb98-6c9b-48c7-961c-1c7190c2ac95",
+        "created_at": "2023-08-31T23:52:12.338Z",
+        "updated_at": "2023-08-31T01:37:10.764Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "361adee1-5019-4348-8b9f-94a8778eb4ef",
+        "created_at": "2023-08-31T10:54:35.204Z",
+        "updated_at": "2023-08-31T13:15:30.771Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb2d0fbb-5e23-4820-9290-13746df4c42a",
+        "created_at": "2023-08-31T12:19:44.003Z",
+        "updated_at": "2023-08-31T06:18:31.255Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "99b54ff3-6a60-4b39-9194-0849226c7721",
+        "created_at": "2023-08-31T23:04:46.282Z",
+        "updated_at": "2023-08-31T10:55:07.404Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "504015cf-b256-40ab-97bc-fd106dfdfc19",
+        "created_at": "2023-08-31T07:11:52.097Z",
+        "updated_at": "2023-08-31T15:35:22.964Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "1f980f86-8e0e-4bbb-bb00-7c0c8efebd31",
+        "created_at": "2023-08-31T05:22:10.081Z",
+        "updated_at": "2023-08-31T07:52:02.869Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e22ed372-62f8-4705-b806-5e390df4584c",
+        "created_at": "2023-08-31T12:28:37.685Z",
+        "updated_at": "2023-08-31T05:34:02.868Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c62162d6-0f68-4aa9-abc8-908aa5221517",
+        "created_at": "2023-08-31T12:37:43.048Z",
+        "updated_at": "2023-08-31T09:12:16.870Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28c0ba40-2e3e-441d-add4-ebfe740dec8c",
+        "created_at": "2023-08-31T08:20:43.206Z",
+        "updated_at": "2023-08-31T00:18:13.435Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af6c3677-b0b0-4002-a68b-8e21f1e9956a",
+        "created_at": "2023-08-31T21:12:58.493Z",
+        "updated_at": "2023-08-31T16:47:09.818Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "0f702538-40ee-4701-bb3a-8534f80673d6",
+        "name": "Super Adventure",
+        "description": "Embark on a thrilling adventure in a world full of danger and magic.",
+        "created_at": "2023-08-31T15:33:13.730Z",
+        "updated_at": "2023-08-31T14:51:18.212Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "d365ead5-0941-4153-8496-138f4d70d5ce",
+        "name": "Mystic Quest",
+        "description": "Uncover ancient mysteries and defeat powerful enemies in this epic quest.",
+        "created_at": "2023-08-31T08:28:30.604Z",
+        "updated_at": "2023-08-31T18:15:10.788Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "fce27b43-91b5-4f57-a387-591e49f4ab26",
+        "name": "Epic Journey",
+        "description": "Experience a captivating journey through fantastical lands and mythical creatures.",
+        "created_at": "2023-08-31T22:56:55.312Z",
+        "updated_at": "2023-08-31T17:48:31.144Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "a43ceb55-11d3-405d-8678-7588ff803733",
+        "name": "Fantasy Realm",
+        "description": "Immerse yourself in a rich fantasy realm filled with captivating stories and challenging quests.",
+        "created_at": "2023-08-31T19:47:41.119Z",
+        "updated_at": "2023-08-31T17:55:48.326Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "69bd0d7d-24f5-4cfa-9d54-d46a8d8d367f",
+        "name": "Legendary Quest",
+        "description": "Become a legendary hero and save the world from impending doom.",
+        "created_at": "2023-08-31T09:46:45.993Z",
+        "updated_at": "2023-08-31T05:01:19.154Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "dc1b72a2-1a0e-4e05-bf39-cc0667432098",
+        "created_at": "2023-08-31T05:09:32.636Z",
+        "updated_at": "2023-08-31T08:17:14.099Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "345f0472-af44-42db-97b2-11df2be322ca",
+        "created_at": "2023-08-31T07:28:32.085Z",
+        "updated_at": "2023-08-31T19:09:43.088Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0f491dd-2527-475b-b846-dfc6cb4108b2",
+        "created_at": "2023-08-31T02:05:23.039Z",
+        "updated_at": "2023-08-31T04:11:01.764Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eef4cd07-cff5-4a92-aa86-5821618c7783",
+        "created_at": "2023-08-31T00:51:35.203Z",
+        "updated_at": "2023-08-31T22:36:38.945Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "994e27ae-016e-4ad5-b9ab-76c5ab06520b",
+        "created_at": "2023-08-31T07:37:25.481Z",
+        "updated_at": "2023-08-31T01:39:43.695Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "4e35d028-669b-4f8d-8e79-23d8b8e07df3",
+        "description": "Encountered a bug while trying to save the game progress.",
+        "created_at": "2023-08-31T01:50:42.604Z",
+        "updated_at": "2023-08-31T07:36:00.603Z",
+        "customer_support_id": "dc1b72a2-1a0e-4e05-bf39-cc0667432098"
+      },
+      {
+        "id": "e8a2511c-7089-4de1-84c7-24616fa7d880",
+        "description": "Experiencing performance issues during gameplay.",
+        "created_at": "2023-08-31T06:04:29.753Z",
+        "updated_at": "2023-08-31T21:29:41.510Z",
+        "customer_support_id": "dc1b72a2-1a0e-4e05-bf39-cc0667432098"
+      },
+      {
+        "id": "dda3befe-2831-4ed0-89c7-1cf05125578f",
+        "description": "Unable to connect to the game server.",
+        "created_at": "2023-08-31T19:48:08.187Z",
+        "updated_at": "2023-08-31T13:25:31.831Z",
+        "customer_support_id": "994e27ae-016e-4ad5-b9ab-76c5ab06520b"
+      },
+      {
+        "id": "29c29110-a8ec-4264-822e-8951dcf5018e",
+        "description": "Game crashes randomly without any error message.",
+        "created_at": "2023-08-31T04:41:03.046Z",
+        "updated_at": "2023-08-31T17:40:39.831Z",
+        "customer_support_id": "eef4cd07-cff5-4a92-aa86-5821618c7783"
+      },
+      {
+        "id": "0879108e-86c2-4930-991b-bc79508ec73f",
+        "description": "Missing in-game items after completing a quest.",
+        "created_at": "2023-08-31T15:36:27.966Z",
+        "updated_at": "2023-08-31T16:41:47.712Z",
+        "customer_support_id": "994e27ae-016e-4ad5-b9ab-76c5ab06520b"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "49d1dc79-e55a-4819-8255-db9e11910825",
+        "email": "Maritza17@yahoo.com",
+        "firstName": "Isobel",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/809.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8baf112f-449f-459a-9dc1-8bf85227a755",
+        "email": "Adaline46@hotmail.com",
+        "firstName": "Destin",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77436171",
+        "tenantId": null
+      },
+      {
+        "reference": "f7332743-9064-4c9b-b18c-9f5104fd3e20",
+        "email": "Prince87@hotmail.com",
+        "firstName": "Macie",
+        "lastName": "Lowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/78.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "16616172-d428-496e-af49-0a9d18c2f5d8",
+        "email": "Willa_Goyette67@hotmail.com",
+        "firstName": "Lonnie",
+        "lastName": "Hermiston",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/849.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "14e2434e-5113-4b1a-91ed-ad105f0a4e12",
+        "email": "Nels_Fadel@hotmail.com",
+        "firstName": "Amir",
+        "lastName": "Johns",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/717.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "game_tester": [
+      {
+        "id": "bfb43b7b-3f1e-47d5-afe9-cfc48fe93531",
+        "created_at": "2023-08-31T01:12:44.830Z",
+        "updated_at": "2023-08-31T09:47:24.505Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6521f097-1c42-43a1-9e54-c29b651be324",
+        "created_at": "2023-08-31T19:43:45.420Z",
+        "updated_at": "2023-08-31T14:53:23.038Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0be910e-b1d6-4350-9d6f-9e7342ea549a",
+        "created_at": "2023-08-31T20:16:24.079Z",
+        "updated_at": "2023-08-31T05:13:58.690Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1d8e5ea3-5402-4b18-8b74-a873296a090c",
+        "created_at": "2023-08-31T14:19:54.282Z",
+        "updated_at": "2023-08-31T02:33:57.892Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7679d69e-2ec9-4431-9d65-a2e6738bafac",
+        "created_at": "2023-08-31T16:10:21.684Z",
+        "updated_at": "2023-08-31T14:04:16.695Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "e80ef96b-2e66-4e19-a8d4-d670fe45a7ff",
+        "created_at": "2023-08-31T00:59:57.248Z",
+        "updated_at": "2023-08-31T11:16:55.154Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9d5a040-3620-47df-8a0d-42dc75b812b5",
+        "created_at": "2023-08-31T06:18:47.312Z",
+        "updated_at": "2023-08-31T17:51:43.223Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b04c657d-463b-448a-9c5a-c2183eeda319",
+        "created_at": "2023-08-31T09:33:28.157Z",
+        "updated_at": "2023-08-31T23:02:29.168Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d832f48d-79b8-4f06-9195-41715a211df8",
+        "created_at": "2023-08-31T06:14:50.069Z",
+        "updated_at": "2023-08-31T06:08:54.003Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8d69c79-d1bb-4e49-a570-11ab415aa2f5",
+        "created_at": "2023-08-31T14:19:03.079Z",
+        "updated_at": "2023-08-31T23:55:23.036Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "9c5b86a7-d91f-445e-a6fb-246fa0005e1c",
+        "name": "Super Adventure",
+        "description": "Embark on an epic adventure in a vast open world.",
+        "created_at": "2023-08-31T03:44:07.251Z",
+        "updated_at": "2023-08-31T21:06:32.940Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "16afcfaf-d661-47c3-a3ef-3eeab1c19841",
+        "name": "Mystic Quest",
+        "description": "Unleash your magical powers and defeat powerful enemies.",
+        "created_at": "2023-08-31T10:49:01.344Z",
+        "updated_at": "2023-08-31T04:55:30.688Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "d3ae9b52-d82d-42ee-b4de-2773a4828811",
+        "name": "Galactic Battle",
+        "description": "Join the battle for control of the galaxy in this action-packed game.",
+        "created_at": "2023-08-31T01:06:41.483Z",
+        "updated_at": "2023-08-31T20:37:56.428Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "78409036-87c9-4139-832a-6ed531223270",
+        "name": "Fantasy World",
+        "description": "Immerse yourself in a fantasy world filled with mythical creatures.",
+        "created_at": "2023-08-31T17:52:51.189Z",
+        "updated_at": "2023-08-31T21:19:54.383Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "4a4459ee-835c-4a02-b62f-41079c4e197a",
+        "name": "Lost Kingdom",
+        "description": "Discover the secrets of a long-lost kingdom and restore peace.",
+        "created_at": "2023-08-31T18:31:14.259Z",
+        "updated_at": "2023-08-31T14:24:55.797Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "a6bea9b4-6513-48dd-8262-1d62272496e7",
+        "created_at": "2023-08-31T22:47:03.993Z",
+        "updated_at": "2023-08-31T23:39:43.719Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59d613d9-8b46-497e-a0ed-961f4faf3e63",
+        "created_at": "2023-08-31T04:43:39.039Z",
+        "updated_at": "2023-08-31T10:18:01.480Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "16bd73e1-8cd0-4759-8498-814460d72c89",
+        "created_at": "2023-08-31T04:54:55.573Z",
+        "updated_at": "2023-08-31T23:22:15.917Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "33afea1e-3e41-4623-95f8-7fe2e9595c36",
+        "created_at": "2023-08-31T23:26:47.476Z",
+        "updated_at": "2023-08-31T11:49:31.326Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5240e59a-3cbe-4f0e-b08d-ead77c05d8ad",
+        "created_at": "2023-08-31T11:47:50.813Z",
+        "updated_at": "2023-08-31T07:15:54.374Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "365999fa-c611-42d1-88f4-d71c143b6fc1",
+        "description": "Encountered a bug while trying to save progress.",
+        "created_at": "2023-08-31T20:13:53.983Z",
+        "updated_at": "2023-08-31T03:27:35.384Z",
+        "customer_support_id": "5240e59a-3cbe-4f0e-b08d-ead77c05d8ad"
+      },
+      {
+        "id": "494aa5bf-c526-4e7b-9cc6-99f16e28a5c6",
+        "description": "Game crashes when attempting to load a saved game.",
+        "created_at": "2023-08-31T04:32:27.005Z",
+        "updated_at": "2023-08-31T22:16:07.227Z",
+        "customer_support_id": "33afea1e-3e41-4623-95f8-7fe2e9595c36"
+      },
+      {
+        "id": "c235f236-42bd-424c-a141-cc6c67b132c5",
+        "description": "Character animation glitch during combat.",
+        "created_at": "2023-08-31T12:59:40.725Z",
+        "updated_at": "2023-08-31T19:20:44.698Z",
+        "customer_support_id": "16bd73e1-8cd0-4759-8498-814460d72c89"
+      },
+      {
+        "id": "8abee50c-8240-4928-95da-6c01a88e0207",
+        "description": "Unable to connect to multiplayer servers.",
+        "created_at": "2023-08-31T12:51:58.620Z",
+        "updated_at": "2023-08-31T11:20:58.232Z",
+        "customer_support_id": "16bd73e1-8cd0-4759-8498-814460d72c89"
+      },
+      {
+        "id": "73409645-8533-4876-a4d9-ee27c768cb5a",
+        "description": "Difficulty level too high, needs adjustment.",
+        "created_at": "2023-08-31T04:34:34.445Z",
+        "updated_at": "2023-08-31T21:30:33.662Z",
+        "customer_support_id": "59d613d9-8b46-497e-a0ed-961f4faf3e63"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "53c83125-191c-48fe-b99f-8218dcf02813",
+        "email": "Dedric.Kreiger56@gmail.com",
+        "firstName": "Haley",
+        "lastName": "Mertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/970.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ecdb2768-4f4b-4bf3-b26f-328205d919a7",
+        "email": "Kiel76@gmail.com",
+        "firstName": "Harold",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/979.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "910bb941-81fe-460e-a1ac-00cd29895288",
+        "email": "Jacey_Morar@gmail.com",
+        "firstName": "Lloyd",
+        "lastName": "Rolfson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63557502",
+        "tenantId": null
+      },
+      {
+        "reference": "e6d320ce-59cc-45f4-b8d0-d5dbafd7b6cc",
+        "email": "Ned47@gmail.com",
+        "firstName": "Annetta",
+        "lastName": "Bradtke-Schamberger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1003.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4217f6e1-54f4-4475-80fb-221a2bd94d2d",
+        "email": "Shirley_Hamill@hotmail.com",
+        "firstName": "Beryl",
+        "lastName": "Lowe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25626135",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "game_tester": [
+      {
+        "id": "fa0df5d8-01e9-4898-9414-2b4e4992c620",
+        "created_at": "2023-08-31T06:35:38.575Z",
+        "updated_at": "2023-08-31T22:56:41.278Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "359b8c44-cead-4aa6-9695-79cab74bd332",
+        "created_at": "2023-08-31T00:19:29.640Z",
+        "updated_at": "2023-08-31T20:27:48.017Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "97303c13-1724-4320-99f4-caefb69e8e4b",
+        "created_at": "2023-08-31T15:15:58.322Z",
+        "updated_at": "2023-08-31T03:55:09.174Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "965ebddd-7123-43c3-93b9-703e611c05d0",
+        "created_at": "2023-08-31T08:08:29.396Z",
+        "updated_at": "2023-08-31T22:12:04.163Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "84c4ce5b-cbc6-4c73-978f-f7a0bc4f0fc5",
+        "created_at": "2023-08-31T03:22:17.978Z",
+        "updated_at": "2023-08-31T11:28:30.769Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "89dec24e-4409-4b13-b741-be396d6beb00",
+        "created_at": "2023-08-31T10:40:47.896Z",
+        "updated_at": "2023-08-31T02:43:57.179Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "53db94e9-56a4-4e72-9681-85da2334a600",
+        "created_at": "2023-08-31T15:13:09.631Z",
+        "updated_at": "2023-08-31T00:58:28.091Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "405d5ffb-116e-4992-aad8-d5ef274f59f9",
+        "created_at": "2023-08-31T23:44:24.369Z",
+        "updated_at": "2023-08-31T09:25:44.011Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "65f18a79-779a-4c41-ab98-840ed3e8c683",
+        "created_at": "2023-08-31T04:19:15.430Z",
+        "updated_at": "2023-08-31T04:08:44.505Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20041d3c-515d-47ba-ade6-bbe28c6ef349",
+        "created_at": "2023-08-31T17:31:36.047Z",
+        "updated_at": "2023-08-31T23:33:23.337Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "233f1c7a-ee2a-45ce-a730-8cb98c91d5b3",
+        "name": "AdventureQuest",
+        "description": "Embark on an epic adventure in a mystical land",
+        "created_at": "2023-08-31T23:17:45.425Z",
+        "updated_at": "2023-08-31T06:51:35.966Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "81305751-3ede-43a1-87e1-5fc1755eb146",
+        "name": "FantasyWorld",
+        "description": "Immerse yourself in a world of fantasy and magic",
+        "created_at": "2023-08-31T05:30:09.168Z",
+        "updated_at": "2023-08-31T03:49:53.270Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "c6bda962-7dbc-4b44-a6c3-6d3406706e6f",
+        "name": "MysteryMansion",
+        "description": "Solve puzzles and uncover the secrets of a haunted mansion",
+        "created_at": "2023-08-31T18:20:23.116Z",
+        "updated_at": "2023-08-31T20:52:49.683Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "c3fbfd10-5d35-4524-9d9a-9bce56fc00d6",
+        "name": "SciFiGalaxy",
+        "description": "Explore the vastness of space and encounter alien civilizations",
+        "created_at": "2023-08-31T09:35:43.799Z",
+        "updated_at": "2023-08-31T08:44:13.082Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "2be01ca0-d263-4767-95e2-40d82ee1cc33",
+        "name": "SportsMania",
+        "description": "Experience the thrill of various sports in virtual reality",
+        "created_at": "2023-08-31T23:30:46.593Z",
+        "updated_at": "2023-08-31T14:17:18.308Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "ae021ade-6934-4309-9fc9-0ae4f418be6f",
+        "created_at": "2023-08-31T12:59:06.355Z",
+        "updated_at": "2023-08-31T12:22:43.818Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67932d72-d955-4a8f-96e8-ca8901637f2d",
+        "created_at": "2023-08-31T19:37:24.956Z",
+        "updated_at": "2023-08-31T18:59:57.893Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92eebd79-f7ff-4f18-9d7a-55521b7d2375",
+        "created_at": "2023-08-31T04:34:44.340Z",
+        "updated_at": "2023-08-31T14:32:38.921Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e43f8592-c844-4583-947f-4504c1409dd5",
+        "created_at": "2023-08-31T00:05:53.277Z",
+        "updated_at": "2023-08-31T20:19:21.763Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f20baded-c7ad-4172-9226-e50eba113a5c",
+        "created_at": "2023-08-31T16:10:45.038Z",
+        "updated_at": "2023-08-31T05:21:33.969Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "baa7bbab-edae-4b78-857d-23a0bf801bc3",
+        "description": "Encountered a bug while trying to save progress",
+        "created_at": "2023-08-31T11:42:56.763Z",
+        "updated_at": "2023-08-31T21:55:59.358Z",
+        "customer_support_id": "92eebd79-f7ff-4f18-9d7a-55521b7d2375"
+      },
+      {
+        "id": "04eacd17-00b8-4213-a79e-62f9a78ee1cb",
+        "description": "Game crashes when performing a specific action",
+        "created_at": "2023-08-31T20:37:31.795Z",
+        "updated_at": "2023-08-31T20:50:25.493Z",
+        "customer_support_id": "67932d72-d955-4a8f-96e8-ca8901637f2d"
+      },
+      {
+        "id": "d1edee33-e902-43d2-9626-7f07214d59cb",
+        "description": "Unable to login with existing credentials",
+        "created_at": "2023-08-31T15:58:50.803Z",
+        "updated_at": "2023-08-31T13:18:12.692Z",
+        "customer_support_id": "e43f8592-c844-4583-947f-4504c1409dd5"
+      },
+      {
+        "id": "3ecffab7-f452-4209-8bfe-41b3d495c2e8",
+        "description": "Missing game assets after latest update",
+        "created_at": "2023-08-31T10:44:14.504Z",
+        "updated_at": "2023-08-31T10:12:06.590Z",
+        "customer_support_id": "92eebd79-f7ff-4f18-9d7a-55521b7d2375"
+      },
+      {
+        "id": "f2193761-4e1e-4b65-92d1-46a3b3cfe4ee",
+        "description": "Difficulty level too high, unable to progress",
+        "created_at": "2023-08-31T10:52:39.401Z",
+        "updated_at": "2023-08-31T07:06:25.765Z",
+        "customer_support_id": "e43f8592-c844-4583-947f-4504c1409dd5"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "49239c02-c8ff-402e-9e4d-3da87ddadbd3",
+        "email": "Rosie.Larson@hotmail.com",
+        "firstName": "Charlene",
+        "lastName": "Gulgowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83789999",
+        "tenantId": null
+      },
+      {
+        "reference": "32b13842-7f83-4937-837b-5cba0917cceb",
+        "email": "Jordan_Strosin70@hotmail.com",
+        "firstName": "Alan",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/984.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5f431daf-f3bc-4504-b8ac-880823eeb254",
+        "email": "Jorge23@yahoo.com",
+        "firstName": "Verdie",
+        "lastName": "McCullough",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57756222",
+        "tenantId": null
+      },
+      {
+        "reference": "c39bc181-22b1-4e66-9c41-9ab3d8c6bade",
+        "email": "Americo35@gmail.com",
+        "firstName": "Theodora",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/853.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "212d06ca-5b4b-4d6d-aeb2-a1f6c3b1c2d8",
+        "email": "Bernita.McDermott39@yahoo.com",
+        "firstName": "Terry",
+        "lastName": "Beier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43814684",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "game_tester": [
+      {
+        "id": "10541a59-7950-43cf-b439-26fdd0f18164",
+        "created_at": "2023-08-31T02:42:06.631Z",
+        "updated_at": "2023-08-31T03:16:58.403Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "abe773c1-6d64-461f-a351-448509fefa1d",
+        "created_at": "2023-08-31T10:09:41.843Z",
+        "updated_at": "2023-08-31T20:33:52.675Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "acfb1bdf-fbef-4290-8927-54a84074c51d",
+        "created_at": "2023-08-31T12:38:37.025Z",
+        "updated_at": "2023-08-31T21:02:21.368Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "165e8e2d-6da9-4974-bef4-b68204598010",
+        "created_at": "2023-08-31T09:05:57.795Z",
+        "updated_at": "2023-08-31T03:50:42.254Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a12c3867-b58c-48e9-9d33-72acca009970",
+        "created_at": "2023-08-31T11:38:49.036Z",
+        "updated_at": "2023-08-31T02:11:51.661Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game_owner": [
+      {
+        "id": "840a2a0d-6eea-482e-b7d6-07daae0bc9e0",
+        "created_at": "2023-08-31T00:31:32.252Z",
+        "updated_at": "2023-08-31T11:52:21.011Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae64753c-8410-431d-beab-3313b7b07659",
+        "created_at": "2023-08-31T18:06:18.512Z",
+        "updated_at": "2023-08-31T12:42:53.135Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cd843341-d8ea-4f2e-a5ea-a016fde8d489",
+        "created_at": "2023-08-31T19:46:02.141Z",
+        "updated_at": "2023-08-31T09:10:09.188Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "466d25c4-8089-412b-a98e-2d40c0aa8b5d",
+        "created_at": "2023-08-31T19:47:00.372Z",
+        "updated_at": "2023-08-31T06:46:14.393Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "509e0526-2626-4e23-a540-b607f62e4db4",
+        "created_at": "2023-08-31T06:12:58.967Z",
+        "updated_at": "2023-08-31T14:25:52.508Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "game": [
+      {
+        "id": "1ec02043-daee-4541-bc4b-fc6bd7916b20",
+        "name": "Super Adventure",
+        "description": "Embark on a thrilling adventure in a magical world",
+        "created_at": "2023-08-31T11:08:46.303Z",
+        "updated_at": "2023-08-31T11:09:13.950Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "28489cc4-c290-42b2-981a-ed80f88259d4",
+        "name": "Mystic Quest",
+        "description": "Solve puzzles and uncover hidden treasures in this captivating game",
+        "created_at": "2023-08-31T22:09:54.770Z",
+        "updated_at": "2023-08-31T00:07:57.798Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "816ee31a-a549-4f2d-a5fc-8eba4df81bdb",
+        "name": "Epic Journey",
+        "description": "Experience an epic journey filled with action and excitement",
+        "created_at": "2023-08-31T20:06:14.701Z",
+        "updated_at": "2023-08-31T13:15:57.382Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "9ff26b21-fad2-4834-bb3f-d17ef1381645",
+        "name": "Fantasy Realm",
+        "description": "Immerse yourself in a fantasy realm full of mythical creatures",
+        "created_at": "2023-08-31T08:07:17.306Z",
+        "updated_at": "2023-08-31T19:58:35.603Z",
+        "developer_id": "main_entity_pk"
+      },
+      {
+        "id": "5d294e2a-dc7a-4301-a9f6-a698eb829c64",
+        "name": "Legendary Heroes",
+        "description": "Lead a team of legendary heroes and save the kingdom",
+        "created_at": "2023-08-31T22:49:25.868Z",
+        "updated_at": "2023-08-31T16:53:51.508Z",
+        "developer_id": "main_entity_pk"
+      }
+    ],
+    "customer_support": [
+      {
+        "id": "47476eee-6e54-4897-95c7-5b9da16368ef",
+        "created_at": "2023-08-31T05:49:25.653Z",
+        "updated_at": "2023-08-31T09:03:46.158Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bfe259b9-5ea4-410b-9821-ff77dbd19fe8",
+        "created_at": "2023-08-31T13:11:40.065Z",
+        "updated_at": "2023-08-31T10:37:07.222Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e1d1e73-ef75-41da-9cd5-3b7287a6a92d",
+        "created_at": "2023-08-31T08:46:10.884Z",
+        "updated_at": "2023-08-31T08:07:54.846Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a2e51b3-a35f-48e9-9d3c-ebd1300f969e",
+        "created_at": "2023-08-31T15:48:28.300Z",
+        "updated_at": "2023-08-31T10:32:03.019Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "afa4f19c-37bd-402a-b27e-719b4e39ee69",
+        "created_at": "2023-08-31T15:45:06.968Z",
+        "updated_at": "2023-08-31T16:45:29.817Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "issue": [
+      {
+        "id": "c5ae4c89-d7e0-421f-bc37-4e8346e548e8",
+        "description": "Encountered a bug while playing the game",
+        "created_at": "2023-08-31T05:38:39.288Z",
+        "updated_at": "2023-08-31T10:48:19.414Z",
+        "customer_support_id": "afa4f19c-37bd-402a-b27e-719b4e39ee69"
+      },
+      {
+        "id": "6985133f-b89c-4cf2-85b0-66568b5da5fd",
+        "description": "Having trouble with a specific game feature",
+        "created_at": "2023-08-31T03:33:27.778Z",
+        "updated_at": "2023-08-31T11:21:09.009Z",
+        "customer_support_id": "bfe259b9-5ea4-410b-9821-ff77dbd19fe8"
+      },
+      {
+        "id": "e3f23b89-5cca-4167-9a1d-2c655f86e5d8",
+        "description": "Need assistance with game controls",
+        "created_at": "2023-08-31T15:59:35.090Z",
+        "updated_at": "2023-08-31T02:52:12.761Z",
+        "customer_support_id": "2e1d1e73-ef75-41da-9cd5-3b7287a6a92d"
+      },
+      {
+        "id": "981ca205-79f1-48e3-920f-384a41fe155f",
+        "description": "Experiencing performance issues on my device",
+        "created_at": "2023-08-31T19:03:56.416Z",
+        "updated_at": "2023-08-31T13:33:59.450Z",
+        "customer_support_id": "afa4f19c-37bd-402a-b27e-719b4e39ee69"
+      },
+      {
+        "id": "1365033d-5c96-4eba-a8f7-9ccafcbdff10",
+        "description": "Unable to progress in the game",
+        "created_at": "2023-08-31T08:07:09.332Z",
+        "updated_at": "2023-08-31T05:18:53.392Z",
+        "customer_support_id": "2e1d1e73-ef75-41da-9cd5-3b7287a6a92d"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "343d0299-6e40-4ab9-b1a5-85945d20dd5e",
+        "email": "Ransom77@yahoo.com",
+        "firstName": "Amira",
+        "lastName": "Braun",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3480653",
+        "tenantId": null
+      },
+      {
+        "reference": "dd7cd850-f44b-4de1-a6a5-bcb6157b0eef",
+        "email": "Stuart_Smith6@gmail.com",
+        "firstName": "Elisa",
+        "lastName": "Rath",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1113.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d5d467b7-fe23-48d9-84d5-535d9ba5c388",
+        "email": "Keshawn.Harris5@yahoo.com",
+        "firstName": "Cristopher",
+        "lastName": "Barton-Beer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48039633",
+        "tenantId": null
+      },
+      {
+        "reference": "497c91e6-ae73-4b75-96ab-6cfe5e41b8b4",
+        "email": "Terrance_Grant15@yahoo.com",
+        "firstName": "Kenton",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/770.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "577a6b21-d2d6-46d7-b277-6f0f70e1ddf0",
+        "email": "Misty7@hotmail.com",
+        "firstName": "Brianne",
+        "lastName": "Reichel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/267.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
